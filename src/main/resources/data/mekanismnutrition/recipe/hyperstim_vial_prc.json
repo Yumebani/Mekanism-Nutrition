@@ -1,0 +1,21 @@
+{
+  "type": "mekanism:reaction",
+  "item_input": {
+    "count": 1,
+    "item": "nutritionalplan:stimulant_vial"
+  },
+  "fluid_input": {
+    "amount": 2400,
+    "fluid": "mekanismnutrition:liquid_micro_nutrients"
+  },
+  "chemical_input": {
+    "amount": 4000,
+    "chemical": "mekanismgenerators:tritium"
+  },
+  "duration": 400,
+  "energy_required": 40000,
+  "item_output": {
+    "count": 1,
+    "id": "nutritionalplan:hyperstim_vial"
+  }
+}

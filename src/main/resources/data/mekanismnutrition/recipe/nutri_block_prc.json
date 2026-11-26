@@ -1,0 +1,21 @@
+{
+  "type": "mekanism:reaction",
+  "item_input": {
+    "count": 1,
+    "item": "nutritionalplan:nutri_bar"
+  },
+  "fluid_input": {
+    "amount": 1000,
+    "fluid": "mekanismnutrition:liquid_macro_nutrients"
+  },
+  "chemical_input": {
+    "amount": 1000,
+    "chemical": "mekanism:lithium"
+  },
+  "duration": 200,
+  "energy_required": 20000,
+  "item_output": {
+    "count": 1,
+    "id": "nutritionalplan:nutri_block"
+  }
+}

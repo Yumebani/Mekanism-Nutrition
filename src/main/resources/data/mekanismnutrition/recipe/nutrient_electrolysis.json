@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:separating",
+  "input": {
+    "amount": 5,
+    "tag": "c:nutritional_paste"
+  },
+  "left_chemical_output": {
+    "amount": 4,
+    "id": "mekanismnutrition:macro_nutrients"
+  },
+  "right_chemical_output": {
+    "amount": 1,
+    "id": "mekanismnutrition:micro_nutrients"
+  },
+  "energy_multiplier": 1
+}

@@ -1,0 +1,21 @@
+{
+  "type": "mekanism:reaction",
+  "item_input": {
+    "count": 1,
+    "item": "nutritionalplan:supplement_pill"
+  },
+  "fluid_input": {
+    "amount": 400,
+    "fluid": "mekanismnutrition:liquid_micro_nutrients"
+  },
+  "chemical_input": {
+    "amount": 500,
+    "chemical": "mekanism:sodium"
+  },
+  "duration": 150,
+  "energy_required": 10000,
+  "item_output": {
+    "count": 1,
+    "id": "nutritionalplan:vitamin_pill"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "mekanism:reaction",
+  "item_input": {
+    "count": 1,
+    "item": "minecraft:wheat"
+  },
+  "fluid_input": {
+    "amount": 250,
+    "fluid": "mekanismnutrition:liquid_macro_nutrients"
+  },
+  "chemical_input": {
+    "amount": 500,
+    "chemical": "mekanism:water_vapor"
+  },
+  "duration": 100,
+  "energy_required": 5000,
+  "item_output": {
+    "count": 1,
+    "id": "nutritionalplan:nutri_biscuit"
+  }
+}

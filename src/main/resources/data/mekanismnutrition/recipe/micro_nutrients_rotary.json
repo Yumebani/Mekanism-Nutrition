@@ -1,0 +1,19 @@
+{
+  "type": "mekanism:rotary",
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "mekanismnutrition:micro_nutrients"
+  },
+  "chemical_output": {
+    "amount": 1,
+    "id": "mekanismnutrition:micro_nutrients"
+  },
+  "fluid_input": {
+    "amount": 1,
+    "tag": "c:liquid_micro_nutrients"
+  },
+  "fluid_output": {
+    "amount": 1,
+    "id": "mekanismnutrition:liquid_micro_nutrients"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "mekanism:reaction",
+  "item_input": {
+    "count": 1,
+    "item": "nutritionalplan:nutri_biscuit"
+  },
+  "fluid_input": {
+    "amount": 500,
+    "fluid": "mekanismnutrition:liquid_macro_nutrients"
+  },
+  "chemical_input": {
+    "amount": 500,
+    "chemical": "mekanism:sodium"
+  },
+  "duration": 150,
+  "energy_required": 10000,
+  "item_output": {
+    "count": 1,
+    "id": "nutritionalplan:nutri_bar"
+  }
+}

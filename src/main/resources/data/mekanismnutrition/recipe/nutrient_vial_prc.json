@@ -1,0 +1,21 @@
+{
+  "type": "mekanism:reaction",
+  "item_input": {
+    "count": 1,
+    "item": "nutritionalplan:nutri_block"
+  },
+  "fluid_input": {
+    "amount": 4000,
+    "fluid": "mekanismnutrition:liquid_macro_nutrients"
+  },
+  "chemical_input": {
+    "amount": 4000,
+    "chemical": "mekanismgenerators:tritium"
+  },
+  "duration": 400,
+  "energy_required": 40000,
+  "item_output": {
+    "count": 1,
+    "id": "nutritionalplan:nutrient_vial"
+  }
+}
